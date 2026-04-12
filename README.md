@@ -1,2 +1,24 @@
-# ST10511154_PROG5121_Part1
-This project is a basic login and registration system made using Java. It allows users to create an account for a application and then log in using their username and password'
+# Chat Aplication - Part 1
+
+## Student information
+- Name: Kayla
+- Surname: Friskin
+- Student Number: ST10511154
+- Module: PROG5121
+
+  ---
+
+  ## Project Information
+  This is part 1 of my chat application.This project uses Login.java to handle the login logic,MainApp.Java to run the program and interact with the user,and LoginTest.java to test that everything works correctly.
+
+  ---
+
+  ## Features
+  ### Username Validation
+Checking that the username follows the correct rules for input.
+  ### Password Validation
+Checking that the password meets the requirements.
+  ### Cellphone Validation
+Checking that cellphone number is formatted in the correct international number.
+
+---
