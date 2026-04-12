@@ -9,7 +9,8 @@
   ---
 
   ## Project Information
-This is part 1 of my chat application.This project uses Login.java to handle the login logic,MainApp.Java to run the program and interact with the user,and LoginTest.java to test that everything works correctly.
+The focus is on creating and registration for my chat application part 1.The system allows users to create an account by entering a username,password and a cell phone number.
+My program then checks if all the details are correct before allowing any user to register.
 
   ---
 
