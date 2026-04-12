@@ -9,8 +9,20 @@
   ---
 
   ## Project Information
-The focus is on creating and registration for my chat application part 1.The system allows users to create an account by entering a username,password and a cell phone number.
+  The focus is on creating and registration for my chat application part 1.The system allows users to create an account by entering a username,password and a cell phone number.
 My program then checks if all the details are correct before allowing any user to register.
+
+### Login.Java
+Handles all validation logic for username,password, and a phone number.
+
+### Main.App.java
+
+Runs the program and allows testing of the Login.Java.
+
+### LoginTest.java
+
+Unit test to verify that all validation methods work correctly.
+
 
   ---
 
