@@ -9,7 +9,7 @@
   ---
 
   ## Project Information
-  This is part 1 of my chat application.This project uses Login.java to handle the login logic,MainApp.Java to run the program and interact with the user,and LoginTest.java to test that everything works correctly.
+This is part 1 of my chat application.This project uses Login.java to handle the login logic,MainApp.Java to run the program and interact with the user,and LoginTest.java to test that everything works correctly.
 
   ---
 
